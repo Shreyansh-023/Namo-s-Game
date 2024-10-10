@@ -1,3 +1,5 @@
+#This is a simple GUI based stopwatch
+
 import time
 from tkinter import *
 from tkinter import messagebox
