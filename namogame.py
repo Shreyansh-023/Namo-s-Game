@@ -1,3 +1,8 @@
+
+#This is a Game based on Randomness
+#The computer randomly chooses a number between 1 to 100
+# We need to guess the number in minimum guesses to win
+
 from tkinter import *
 from tkinter import messagebox as mess
 import random
