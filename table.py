@@ -1,3 +1,4 @@
+#This is a GUI based Mathematical Table teller for students
 from tkinter import *
 root=Tk()
 root.geometry("300x630")
